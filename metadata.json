@@ -1,0 +1,6 @@
+{
+  "name": "SentimentPro",
+  "description": "An intelligent sentiment analysis dashboard powered by Gemini AI with real-time feedback processing and data visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
